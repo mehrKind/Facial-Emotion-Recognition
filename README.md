@@ -109,8 +109,8 @@ python src/inference.py --image path/to/image.jpg
 
 ---
 
-## ❤️ Credits
-Made By Love Alireza Mehraban
+## Credits
+Made By ❤️ Alireza Mehraban
 
 ---
 
